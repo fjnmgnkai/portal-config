@@ -3,11 +3,18 @@
   "version": 2,
   "portals": [
     {
+      "key": "portal_a",
+      "portalName": "Test Portal",
+      "authorName": "Ryo",
+      "roomId": "wrld_cda535da-bcda-46ac-82e4-62312a057767",
+      "enabled": true
+    },
+    {
       "key": "portal_b",
       "portalName": "eventide",
       "authorName": "author",
       "roomId": "wrld_ad5c6b24-8659-4f3d-a271-7fd54150c0f6",
-      "enabled": false
+      "enabled": true
     }
   ]
 }
