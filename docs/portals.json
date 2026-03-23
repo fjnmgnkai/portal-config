@@ -7,7 +7,7 @@
       "portalName": "Test Portal",
       "authorName": "Ryo",
       "roomId": "wrld_cda535da-bcda-46ac-82e4-62312a057767",
-      "enabled": true
+      "enabled": false
     },
     {
       "key": "portal_b",
